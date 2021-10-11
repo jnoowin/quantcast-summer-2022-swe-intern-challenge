@@ -1,2 +1,2 @@
 #!/bin/bash
-python ./cookie/most_active_cookie.py $@
+python most_active_cookie.py $@
